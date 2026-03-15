@@ -50,16 +50,24 @@ to create a simple yet effective platform for sharing files.
 
 ## 🏆 **Badges & Certifications**
 <div>
+  <a href="https://www.credly.com/badges/8d3cf6a5-961a-47c1-94d4-30792b5a1a25" target="_blank">
+    <img src="./Azure-Fundamentals.png" width="120" alt="Microsoft Azure Fundamentals">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/HarshalChoudhary-8632/DBB751D1C87C54F6?sharingId=7848790423034A99" target="_blank">
+    <img src="./Azure-Developer-Associate.png" width="120" alt="Microsoft Azure Developer Associate">
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.credly.com/badges/21a0afc6-9324-4a80-a694-f927f8135ab3" target="_blank">
-    <img src="./GitHubFoundations.png" width="120" alt="GitHub Foundations">
+    <img src="./GitHub-Foundations.png" width="120" alt="GitHub Foundations">
   </a>
   &nbsp;&nbsp;
   <a href="https://www.credly.com/badges/c4f25e9a-7ce5-4c0d-ac5f-af54f2c707f7" target="_blank">
-    <img src="./GitHubActions.png" width="120" alt="GitHub Actions">
+    <img src="./GitHub-Actions.png" width="120" alt="GitHub Actions">
   </a>
   &nbsp;&nbsp;
   <a href="https://www.credly.com/badges/0918a63b-445f-4f28-bd9f-023c7b97bf81" target="_blank">
-    <img src="./CloudFoundations.png" width="120" alt="AWS Academy Cloud Foundations">
+    <img src="./AWS-Cloud-Foundations.png" width="120" alt="AWS Academy Cloud Foundations">
   </a>
 </div>
 
